@@ -1,0 +1,5 @@
+nero:thing to add;
+ned:thing to add;
+nola:thing to add;
+nero:rome;
+netsec:Queen’s Network Security is a team made primarily of ECE and Computer Science students who learn, discuss, and safely practice network security concepts;

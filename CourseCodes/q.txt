@@ -1,0 +1,6 @@
+qcse: Computational Sci & Engineerin;
+QCSE810:Fund. Of Computational Science;
+QCSE811:High Performance Computing;
+QCSE888A:Computational Science Seminar;
+QCSE888B:Computational Science Seminar;
+qual: Qualification;

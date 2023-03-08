@@ -1,0 +1,3 @@
+engsoc:Engineering Society;
+ewb:Engineers Without Borders;
+equip:The Education on Queer Issues Project (EQuIP) seeks to create a safer environment for individuals at Queen's and in Kingston of all sexualities and gender ...;

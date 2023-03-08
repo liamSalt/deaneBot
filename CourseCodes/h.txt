@@ -1,0 +1,550 @@
+hebr: Hebrew;
+HEBRPUNS:0 Level Unspecified;
+HEBR1UNS:100 Level Unspecified;
+HEBR2UNS:200 Level Unspecified;
+HEBR3UNS:300 Level Unspecified;
+HEBR4UNS:400 Level Unspecified;
+HEBR190A:Introduction to Modern Hebrew;
+HEBR190B:Introduction to Modern Hebrew;
+HEBR192:Introductory Biblical Hebrew;
+HEBR193:Classical Hebrew Fundamentals;
+HEBR292:Intermediate Biblical Hebrew;
+HEBR294:Intermediate Modern Hebrew I;
+HEBR295:Intermediate Modern Hebrew II;
+HEBR301:Topics in Hebrew;
+HEBR393:Reading Modern Hebrew Literature;
+HEBR502:Directed Reading Hebrew;
+hist: History;
+HISTUNSP:Unspecified;
+HIST1LEC:Lecture - 100 Level;
+HIST1SEM:200 Level Seminar;
+HIST1UNS:Unspecified - 100 Level;
+HIST2LEC:Lecture - 200 Level;
+HIST2SEM:200 Level Seminar;
+HIST2UNS:Unspecified - 200 Level;
+HIST3LEC:300 Level - Lecture;
+HIST3SEM:300 Level Seminar;
+HIST3UNS:Unspecified - 300 Level;
+HIST4LEC:400 Level-Lecture;
+HIST4SEM:400 Level Seminar;
+HIST4UNS:Unspecified - 400 Level;
+HIST121A:Intellectual Origins of the Contemporary West;
+HIST121B:Intellectual Origins of the Contemporary West;
+HIST122A:Making of the Modern World;
+HIST122B:Making of the Modern World;
+HIST124:Canada:A History of the Present;
+HIST124A:Canada in the World
+
+*** view multiple offerings;
+HIST124B:Canada: A History of the Present
+
+*** view multiple offerings;
+HIST125:The Evolution Of Modern Europe;
+HIST125A:The Evolution of Modern Europe
+
+*** view multiple offerings;
+HIST125B:The Evolution of Modern Europe
+
+*** view multiple offerings;
+HIST200:India and the World
+
+*** view multiple offerings;
+HIST201:Europe, 1572-1815;
+HIST205:The Atlantic World;
+HIST206:The United States in the Gilded Age and Progressive Era, 1868-1920;
+HIST207:Global Indigenous Histories;
+HIST208:Introduction to Themes in Canadian History I;
+HIST209:Introduction to Themes in Canadian History II;
+HIST210:The History of Sexuality in Canada;
+HIST211:The Cold War
+
+*** view multiple offerings;
+HIST212:Experiential Learning in Historical Practice;
+HIST213A:Comparative Public Policy;
+HIST213B:Comparative Public Policy;
+HIST214:Food in Global History;
+HIST215:Sport and the Spectacle of Violence from Antiquity to the Renaissance;
+HIST216:Us Civil War & Reconstruction;
+HIST218:Byzantium;
+HIST219:"Canada": The History of an Idea;
+HIST220:Jews on Film;
+HIST221:Jewish and World Civilizations (until 1492);
+HIST222:Jewish and World Civilizations (since 1492);
+HIST224:Religion in Canadian Francophone Communities
+
+*** view multiple offerings;
+HIST225:The Early Middle Ages;
+HIST226:The Later Middle Ages;
+HIST227:The Rise of Consumer Society;
+HIST228:Global History of Pandemics;
+HIST241:Issues In History
+
+*** view multiple offerings;
+HIST242:Issues in Canadian History;
+HIST243:The Crusades;
+HIST244:Selected Topics in History;
+HIST245:Imperial Russia;
+HIST246:The Soviet Experiment;
+HIST252:Africa in the Modern World
+
+*** view multiple offerings;
+HIST253:History of Public Policy;
+HIST254:Women and Gender in 20th Century Canada;
+HIST255:Renaissance and Reformation Europe;
+HIST256:The Making of the North American Environment
+
+*** view multiple offerings;
+HIST257:Environmental History;
+HIST258:Slavery in North America from the Colonial Era to 1865;
+HIST259:Islamophobia: Crusades to the Present;
+HIST260:Canada from the Conquest to the Present;
+HIST260A:Canada from the Conquest to the Present
+
+*** view multiple offerings;
+HIST260B:Canada from the Conquest to the Present
+
+*** view multiple offerings;
+HIST261:History of Acadia 1604 to Today;
+HIST263:War in Twentieth Century: Myths and Reality
+
+*** view multiple offerings;
+HIST267:Modern Middle East;
+HIST269:Politics and the State in Canada to 1896;
+HIST270:Contemporary China;
+HIST272:United States, Colonial Era to Present;
+HIST272A:United States, Colonial Era to Present;
+HIST272B:United States, Colonial Era to Present;
+HIST273:New Imperialism
+
+*** view multiple offerings;
+HIST274:Cultural History of Modern France;
+HIST275:The African American Experience;
+HIST279:20th-Century Canada;
+HIST280:Gender in North American History;
+HIST280A:Gender in North American History
+
+*** view multiple offerings;
+HIST280B:Gender in North American History
+
+*** view multiple offerings;
+HIST281:Gender in History: A European Perspective;
+HIST283:The Making of the Third World II;
+HIST285:Latin America to1850: The Colonial Experience;
+HIST286:Latin America from 1850 to Today: The Modern Era;
+HIST287:Early Modern England
+
+*** view multiple offerings;
+HIST288:The Rise of the British Empire;
+HIST289:Modern Britain and the World
+
+*** view multiple offerings;
+HIST290:Ireland to 1848;
+HIST291:Ireland from 1848 to the Present;
+HIST294:Arab-Israeli Conflict and Regional Security;
+HIST295:The Holocaust;
+HIST296:The Making of the Muslim Middle East (550-1350 C.E.);
+HIST298:Imperial China;
+HIST299:China since 1800;
+HIST301A:Medieval Societies;
+HIST301B:Medieval Societies;
+HIST302A:Colonial Invasions, Colonial Lives;
+HIST302B:Colonial Invasions, Colonial Lives;
+HIST303A:History of the Caribbean in a Global Perspective;
+HIST303B:History of the Caribbean in a Global Perspective;
+HIST304A:The Civil War and the Making of America;
+HIST304B:The Civil War and the Making of America;
+HIST305A:Muslim Societies;
+HIST305B:Muslim Societies;
+HIST306A:Holocaust: Problems and Interpretations;
+HIST306B:Holocaust: Problems and Interpretations;
+HIST310A:Modern India: Colonial, National, Global Histories;
+HIST310B:Modern India: Colonial, National, Global Histories;
+HIST312A:Canadian Social History;
+HIST312B:Canadian Social History;
+HIST313A:British North America, 1759-1867;
+HIST313B:British North America, 1759-1867;
+HIST314A:American Society and Culture Since 1877;
+HIST314B:American Society and Culture Since 1877;
+HIST315A:Modern Latin American History: Sources and Debates;
+HIST315B:Modern Latin American History: Sources and Debates;
+HIST316A:European Politics and Society Since 1789;
+HIST316B:European Politics and Society Since 1789;
+HIST318A:Modern East Asia;
+HIST318B:Modern East Asia;
+HIST321A:Social and Culture Changes in Europe, 1500-1800;
+HIST321B:Social and Culture Changes in Europe, 1500-1800;
+HIST322:War & Modern Society;
+HIST322A:War and Modern Society;
+HIST322B:War and Modern Society;
+HIST323A:Modern European Thought and Culture;
+HIST323B:Modern European Thought and Culture;
+HIST324A:Race and Immigration in North America;
+HIST324B:Race and Immigration in North America;
+HIST329A:Modern Britain;
+HIST329B:Modern Britain;
+HIST330:Topics in History;
+HIST330A:Topics in HistoryTopics in History;
+HIST330B:Topics in History;
+HIST332:Medieval Britain;
+HIST333:Southern Africa to c. 1890;
+HIST334:Southern Africa from c. 1890;
+HIST335A:The Age of Jackson;
+HIST335B:The Age of Jackson;
+HIST337:Multiculturalism in the Ottoman Empire;
+HIST338:Western World Ethnohistory;
+HIST339:Jews Without Judaism;
+HIST339A:Jews Without Judaism;
+HIST339B:Jews Without Judaism;
+HIST340A:French Canada, 1830-2000;
+HIST340B:French Canada, 1830-2000;
+HIST341A:The Reformation;
+HIST341B:The Reformation;
+HIST343A:Islamic Crusades 1095-1291;
+HIST343B:Islamic Crusades 1095-1291;
+HIST344:Insiders/ Outsiders: Jewish Identity in the New World.;
+HIST347A:Jewish Experience North Amer;
+HIST347B:Jewish Experience North Amer;
+HIST348A:Prophets & Populists;
+HIST348B:Prophets & Populists;
+HIST349:Early Mod European Intellectual History;
+HIST351:War, Reform and Revolution in Russian History;
+HIST352:Northeast Africa from 1850s;
+HIST353:Revolutions and Civil Wars in Twentieth-Century Latin America;
+HIST356A:Health and Disease in Western Society;
+HIST356B:Health and Disease in Western Society;
+HIST359A:Ontario;
+HIST359B:Ontario;
+HIST360:War and Peace in 20th-Century Western Culture I;
+HIST361:War and Peace in 20th-Century Western Culture II;
+HIST363:The British Isles in the 20th Century;
+HIST364:Imperial Borderlands: Russia and the Soviet Union;
+HIST365:History Outside the Book;
+HIST367A:Utopian Visions and Movements for a New Society;
+HIST367B:Utopian Visions and Movements for a New Society;
+HIST390A:Topics in History;
+HIST390B:Topics in History;
+HIST391A:Topics in Canadian History;
+HIST391B:Topics in Canadian History;
+HIST394:Topics in Canadian History;
+HIST400:Topics in History;
+HIST401:Topics in Canadian History;
+HIST404:Themes in Diaspora History;
+HIST405A:U.S. Public Policy and Society since 1945;
+HIST405B:U.S. Public Policy and Society since 1945;
+HIST406:Hunger in Modern European History;
+HIST407:Muslims and Islam in South Asia;
+HIST409:Twentieth Century Europe;
+HIST410A:Globalization;
+HIST410B:Globalization;
+HIST411:Globalization, Wealth and Inequality in the West Since 1945;
+HIST412:One Land, Many Narratives, Israel/Palestine;
+HIST413:Jews/Muslims in Enlightenment;
+HIST415:Postcolonial Theory and French and Canada;
+HIST416:Material History in Canada;
+HIST418A:Reformation and Revolution in Early Modern England;
+HIST418B:Reformation and Revolution in Early Modern England;
+HIST419A:The Italian Renaissance;
+HIST419B:The Italian Renaissance;
+HIST420A:Culture and Society in Cold War America;
+HIST420B:Culture and Society in Cold War America;
+HIST421A:The Russian Revolution;
+HIST421B:The Russian Revolution;
+HIST422A:The French Revolution;
+HIST422B:The French Revolution;
+HIST424:Cultural History of Enlightenment France;
+HIST425A:Black Experience in Canada;
+HIST425B:Black Experience in Canada;
+HIST427A:Modern European Society;
+HIST427B:Modern European Society;
+HIST428:Slavery and the Law in North America, 1600-1865;
+HIST429A:American Thought and Culture;
+HIST429B:American Thought and Culture;
+HIST430A:The Crusades and the Latin Kingdoms;
+HIST430B:The Crusades and the Latin Kingdoms;
+HIST431:Atlantic Canada;
+HIST432A:Economy and Culture in Nineteenth Century America;
+HIST432B:Economy and Culture in Nineteenth Century America;
+HIST433A:Power, Authority and the State in Early Canada;
+HIST433B:Power, Authority and the State in Early Canada;
+HIST434A:The Canadian Left in the Twentieth Century;
+HIST434B:The Canadian Left in the Twentieth Century;
+HIST435:Global History;
+HIST436:Topics in Canadian Legal History;
+HIST437A:Religion and North American Society;
+HIST437B:Religion and North American Society;
+HIST438:The Historical Imagination;
+HIST439:Schooling Canadians;
+HIST440:Britain in the Enlightenment Era;
+HIST441:Medieval Greece;
+HIST442:New World Societies;
+HIST446:Gender, Sexuality and Race in South Asia;
+HIST447:Sex and the History of Medicine;
+HIST449:Topics in Medieval Mediterranean History;
+HIST451A:The Experience of War in 20th Century Europe;
+HIST451B:The Experience of War in 20th Century Europe;
+HIST452:African Decolonization and In-Dependence;
+HIST455A:The Spanish Inquisition, 1450-1800: Sexuality, Sin, and Spiritual Beliefs;
+HIST455B:Heresy, Holiness and Idolatry in the Iberian Atlantic;
+HIST456:Islam and Muslims in World History;
+HIST458A:The Social History of Modern Canada;
+HIST458B:The Social History of Modern Canada;
+HIST459A:British Culture and Society, 1780-1914;
+HIST459B:British Culture and Society, 1780-1914;
+HIST460A:The British and India, 1765-1947;
+HIST460B:The British and India, 1765-1947;
+HIST461:Race and Ethnicity in Latin America, 1492 to the Present;
+HIST462:Social History of Modernizing Latin America 1860 to 1960;
+HIST463:Liberalism, Authoritarianism and Citizenship in Latin America;
+HIST464A:The History of Sexuality;
+HIST464B:The History Of Sexuality;
+HIST465A:Topics in Women's History;
+HIST465B:Topics In Women's History;
+HIST466:Radicalism, Revolution, and Religion in Russian History and Literature;
+HIST467A:First Nations of North America;
+HIST467B:First Nations of North America;
+HIST468A:Topics in Modern European Intellectual and Cultural History;
+HIST468B:Topics in Modern European Intellectual and Cultural History;
+HIST470:The Development of Capitalism in Africa;
+HIST471:Power and Knowledge: Foucault for Historians;
+HIST473:Black Women in Modern U.S. History;
+HIST474:History of Gender and Technology;
+HIST476A:Canada at War;
+HIST476B:Canada at War;
+HIST477:Animals and History;
+HIST478:Nations and Nationalism in Global History;
+HIST479A:Theory and Practice Development;
+HIST479B:Theory and Practice Development;
+HIST481:History vs Pseudohistory;
+HIST482:Historiography of Medicine;
+HIST484:Topics Irish History, 1798 to the Present;
+HIST488:Nobel Prize in Medicine: Who won it; Who didn't; and Why?;
+HIST498:China's Revolutions, 1911-1949;
+HIST499:China Since 1949;
+HIST501A:History/Queen's Archives Internship;
+HIST501B:History/Queen's Archives Internship;
+HIST502:History/Queen's Archives Internship;
+HIST515A:Independent Study Project;
+HIST515B:Independent Study Project;
+HIST517:Independent Study Project;
+HIST594:Independent Study
+
+*** view multiple offerings;
+HIST595:Independent Study;
+HIST596:Independent Study;
+HIST597:Independent Study;
+HIST598A:Independent Study;
+HIST598B:Independent Study;
+HIST780:Study & Interp. Of History;
+HIST801A:Religious Identity, dissidence and interaction in the pre-modern Mediterranean;
+HIST801B:Religious Identity, dissidence and interaction in the pre-modern Mediterranean;
+HIST802:Selected Topics in History I;
+HIST803:Topics in Irish History 1798 to the Present;
+HIST804:The Atlantic World;
+HIST805:British North America, c. 1749-1880;
+HIST806:U.S. History since 1900;
+HIST807A:Reading French;
+HIST807B:Reading French;
+HIST808:Capitalism: A Historical View;
+HIST809:Imperial and Postcolonial History;
+HIST810:First Nations Of North America;
+HIST812:Selected Topics in History;
+HIST813:Topics in Modern European History I;
+HIST814A:Social Hist. Of Modern Canada;
+HIST814B:Social Hist. Of Modern Canada;
+HIST815A:Quebec Culture And Society;
+HIST815B:Quebec Culture And Society;
+HIST816:20th-century Canadian History;
+HIST817:Race and Gender in Modern U.S. History;
+HIST818:Topics in Global Agrarian & Environmental History;
+HIST819:Topics in the History of China Since 1949;
+HIST820:Radicalism, Revolution, and Religion in Russian History and Literature;
+HIST822A:New World Societies;
+HIST822B:New World Societies;
+HIST823:Canada's Racial State;
+HIST824:Cultural History of Enlightenment France;
+HIST825:Global, World, and Transnational History;
+HIST826:Culture Decades: Canada, 1945-;
+HIST827:Medieval Greece;
+HIST828A:Crusades And Latin Kingdoms;
+HIST828B:Crusades And Latin Kingdoms;
+HIST829A:The Italian Renaissance;
+HIST829B:The Italian Renaissance;
+HIST830:Selected Topics in History;
+HIST831:Selected Topics in History;
+HIST832:Found. Modern State-1300-1500;
+HIST835:Comparative Public Policy;
+HIST836A:Adv. Study In Russian History;
+HIST836B:Adv. Study In Russian History;
+HIST839:The State in Canada to 1914;
+HIST840A:18th Century France;
+HIST840B:18th Century France;
+HIST841:U.S. History to 1900;
+HIST842:Canada In Confed-1840-1914;
+HIST843:Colonial North Amer. Societies;
+HIST845:Canada In National Period;
+HIST848:Church Later Middle Ages;
+HIST850A:N. Amer. Religion 1850-1960;
+HIST850B:N. Amer. Religion 1850-1960;
+HIST851:Global African History;
+HIST852:African Decolonization and In-Dependence;
+HIST853:England/Ireland 19-20th Cen.II;
+HIST855A:The British in India;
+HIST855B:The British in India;
+HIST857:Health & Disease In Can-1400-;
+HIST858A:English Revolution-1600-1661;
+HIST858B:English Revolution-1600-1661;
+HIST859:Modern Britain and the World;
+HIST862:Technology And Society;
+HIST865A:Selected Topics in History II: Empires and Intimacies;
+HIST865B:Selected Topics in History II: Empires and Intimacies;
+HIST866:Race & Ethnicity In Latin Amer;
+HIST867:Social History of Modernizing Latin America, 1860-1960;
+HIST868A:European Intellectual History;
+HIST868B:European Intellectual History;
+HIST872:20th Cent. Usa Foreign Rel. II;
+HIST876A:Canada At War;
+HIST876B:Canada At War;
+HIST877:History Memory Commemoration;
+HIST878:US Culture and Society, 1945-;
+HIST880:Miracles and Magic in Byzantium;
+HIST881:Religious Identity in Byzantium;
+HIST882:Historiography Of Medicine;
+HIST883:Epistemological Medical Issues;
+HIST884:Nobel Prize In Medicine;
+HIST885A:The History Of Sexuality;
+HIST885B:The History Of Sexuality;
+HIST886:Topics in Early Modern Europe I;
+HIST887:Topic In Mediterranean History;
+HIST888:Citizenship Latin America;
+HIST889:China's Revolutions: 1911-1949;
+HIST890:Britain and the Empire;
+HIST891:Topics in Early Modern Europe II;
+HIST892:Topics in Modern European History II;
+HIST893:19th Century Colonial North America;
+HIST894:The Atlantic World II;
+HIST895:Directed Reading;
+HIST896:Directed Reading;
+HIST897A:Directed Readings;
+HIST897B:Directed Readings;
+HIST898:Master's Essay Res. (Pat. II);
+HIST899:Master's Thesis Research;
+HIST901:Approaches To History;
+HIST901A:Approaches To History;
+HIST901B:Approaches To History;
+HIST909A:Canada Military;
+HIST909B:Canada Military;
+HIST999:Ph. D. Thesis Research;
+hlth: Health Studies;
+HLTH1UNS:Unspecified 100 Level;
+HLTH2UNS:Unspecified 200 Level;
+HLTH3UNS:Unspecified 300 Level;
+HLTH4UNS:Unspecified 400 Level;
+HLTH101:Social Determinants of Health
+
+*** view multiple offerings;
+HLTH102:Personal Health and Wellness
+
+*** view multiple offerings;
+HLTH131:Basic Human Nutrition;
+HLTH200:Physical Fitness and Wellness
+
+*** view multiple offerings;
+HLTH205:Introduction to Health Promotion;
+HLTH230:Basic Human Nutrition
+
+*** view multiple offerings;
+HLTH235:Food Systems;
+HLTH237:Introduction to the Study of Alcohol and Drug Problems
+
+*** view multiple offerings;
+HLTH252:Introduction to Research Methods;
+HLTH270:Movement Behaviours and Health;
+HLTH300:Community-Based Practicum;
+HLTH305:Fundamentals of Health Policy;
+HLTH315:Theory and Practice of Health Behaviour Change;
+HLTH323:Epidemiology;
+HLTH325:Epidemiology of Physical Activity, Fitness and Health;
+HLTH331:Advanced Human Nutrition;
+HLTH332:Foundations for Understanding Disability: A Health Perspective
+
+*** view multiple offerings;
+HLTH333:Contemporary Issues in Human Sexuality;
+HLTH334:The Politics of Health and Illness;
+HLTH350:Topics in Global Health
+
+*** view multiple offerings;
+HLTH351:Health in Humanitarian Crisis
+
+*** view multiple offerings;
+HLTH352:Research Skills Development Practicum;
+HLTH352A:Research Skills Development Practicum;
+HLTH352B:Research Skills Development Practicum;
+HLTH397:Special Topics Health Studies
+
+*** view multiple offerings;
+HLTH401:Interprofessional Collaborative Education
+
+*** view multiple offerings;
+HLTH402:Disability Studies: Issues, Research and Policy
+
+*** view multiple offerings;
+HLTH403:Community Based Rehabilitation
+
+*** view multiple offerings;
+HLTH404:Global Studies of Social Inclusion, Community Participation and Mental Illness;
+HLTH416:Program Planning and Evaluation;
+HLTH417:Community-Based Programing and Evaluation;
+HLTH430:Critical Weight Studies;
+HLTH434:Social Movements in Health;
+HLTH435:Seminar on HIV/AIDS Prevention;
+HLTH437:Seminar on Harm Reduction;
+HLTH445:Critical Health Promotion;
+HLTH455:Health and Built Environments;
+HLTH456:Survey of Research and Literature in Health Studies;
+HLTH456A:Survey Research and Lit Hlth;
+HLTH456B:Survey Research and Lit Hlth;
+HLTH491:Hlth Stud. Special Project;
+HLTH491A:Hlth Stud. Special Project;
+HLTH491B:Hlth Stud. Special Project;
+HLTH493:Advanced Topics in Health Studies I;
+HLTH495:Adv Topics in Health Studies II;
+HLTH497:Special Topics in Health Studies I
+
+*** view multiple offerings;
+HLTH595A:Honours Thesis in Health Studies;
+HLTH595B:Honours Thesis in Health Studies;
+hpe: Health Professions Education;
+HPE801:Introduction to Health Professions Education;
+HPE802:Health Professions Education Curriculum and Design;
+HPE803:Scholarship in Health Professions Education;
+HPE804:Teaching & Learning in Collaborative Practice;
+HPE805:Simulation;
+HPE806:Indigenous Health Professional Education;
+HPE807:Leadership in Health Professions Education;
+HPE898:Project in Health Professions Education;
+hqrs: Hlthcare Quality, Risk & Safet;
+HQRS840:Introduction to Quality, Risk and Safety;
+HQRS841:Precoess Improvement in Health Care;
+HQRS842:Research and Evaluation Methods to Assess Quality, Risk and Safety;
+HQRS843:International Perspectives on Quality, Risk & Safety
+
+*** view multiple offerings;
+HQRS844:Law, Risk and Healthcare;
+HQRS845:Organizational Behaviour in Healthcare;
+HQRS846:Human Factors in Healthcare;
+HQRS847:International Perspectives on Policy, Economics, and Quality Healthcare;
+HQRS898:Project in Healthcare Quality;
+HQRS900:Philosophy of Health Quality Science;
+HQRS901:Research and Theory of Change Management and Leadership;
+HQRS902:Qualitative Methods for Research in Health Quality;
+HQRS903:Quantitative Methods for Research in Health Quality;
+HQRS904:Internship in Health Quality;
+HQRS905:Current Topics in Health Quality;
+HQRS999:Thesis;
+hsci: Health Sciences Research;
+HSCI592:Health Sciences Research: Design and Methods;
+HSCI593:Health Sciences Research: Data Collection and Interpretation;
+HSCI598:Advanced Health Sciences Research: Design and Methods;
+HSCI599:Advanced Health Sciences Research: Data Collection and Analysis;
+hss: Humanities & Social Science;
+HSSUNSP:Humanities And Social Science;

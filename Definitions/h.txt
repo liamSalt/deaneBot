@@ -1,0 +1,3 @@
+hosa:HOSA Queen’s offers its student members online resources on the topics of their choice in 1 of 15 different healthcare occupations or competitive categories;
+hsa:Hellenic Student's Association;
+hrc:Housing Resource Centre;

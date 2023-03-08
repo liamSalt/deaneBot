@@ -1,0 +1,5 @@
+ikeharatoshi:ikehara-toshi;
+industrialrelationscentre:industrial-relations-centre;
+intergovernmentalrelationsinstitute:intergovernmental-relations-institute;
+internationalcentre:international-centre;
+isabelbadercentreperformingarts,isabel,theisabel:isabel-bader-centre-performing-arts;

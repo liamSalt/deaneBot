@@ -1,0 +1,5 @@
+xray: X;
+XRAY310A:Didactic Training at EOSXT;
+XRAY310B:Didactic Training at EOSXT;
+XRAY410A:Clinical Training at EOSXT;
+XRAY410B:Clinical Training At Eosxt;

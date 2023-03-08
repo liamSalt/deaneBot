@@ -1,0 +1,6 @@
+sws:Student Wellness Services;
+slc:1) Student Life Centre
+2)St. Lawrence College;
+sae:Queen's Formula SAE is a design team that designs and build an open wheeled, Formula-style race car;
+subreddit:www.reddit.com/r/queensuniversity;
+sass:Student Academic Success Services;

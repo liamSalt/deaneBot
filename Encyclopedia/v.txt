@@ -1,0 +1,3 @@
+vicechancellor:vice-chancellor;
+victoriahall,victoria,vichall,vic:victoria-hall;
+victoriaschool:victoria-school;

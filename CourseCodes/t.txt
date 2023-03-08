@@ -1,0 +1,14 @@
+theo: Theology;
+tmed: Translational Medicine;
+TMED800:Translational Medicine;
+TMED801:Profession of Medicine;
+TMED801A:Profession of Medicine;
+TMED801B:Profession of Medicine;
+TMED802:Research Success Skills;
+TMED802A:Research Success Skills;
+TMED802B:Research Success Skills;
+TMED811:Next Generation Sequencing;
+TMED899:Master's Thesis Research;
+TMED999:Ph.D. Thesis Research;
+tech: Technical Electives;
+TECHUNSP:Technical Electives;

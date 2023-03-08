@@ -1,0 +1,7 @@
+taylorrevrobertbruce:taylor-rev-robert-bruce;
+technicolor:technicolor;
+theologicalhall,theological,theo:theological-hall;
+tindallfield,tindall:tindall-field;
+tindallfrank:tindall-frank;
+traditionalterritories:traditional-territories;
+tricolouryearbook:tricolour-yearbook;

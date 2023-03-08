@@ -1,0 +1,11 @@
+jacksonarthur:jackson-arthur;
+jackson,jacksonhall:jackson-hall;
+jeanrpyce,jeanroycehall:jean-royce-hall;
+jeffery,jeff,jeffry,jefferyhall,calculator:jeffery-hall;
+jefferyralphl:jeffery-ralph-l;
+jemmettdouglasmill:jemmett-douglas-mill;
+jewishstudies:jewish-studies;
+jockhartyarena:jock-harty-arena;
+johndeutschinstitutestudyeconomicpolicy:john-deutsch-institute-study-economic-policy;
+jduc,johndeutschuniversitycentre:john-deutsch-university-centre;
+johnorrtower,johnorr:john-orr-tower;

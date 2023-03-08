@@ -1,0 +1,221 @@
+ddht: Drug Developm & Human Toxicolo;
+DDHT4UNS:Unspecified - 400 Level;
+DDHT459:Principles of Drug Discovery;
+DDHT460:Principles of Drug Development;
+devs: Global Development Studies;
+DEVS1UNS:100 Level Unspecified;
+DEVS2UNS:200 Level Unspecified;
+DEVS3UNS:300 Level Unspecified;
+DEVS4UNS:400 Level Unspecified;
+DEVS100:Canada and the "Third World";
+DEVS100A:Canada and the "Third World"
+
+*** view multiple offerings;
+DEVS100B:Canada and the "Third World"
+
+*** view multiple offerings;
+DEVS220:Introduction to Indigenous Studies
+
+*** view multiple offerings;
+DEVS221:Topics in Indigenous Human Ecology
+
+*** view multiple offerings;
+DEVS230:The Global Political Economy of Development
+
+*** view multiple offerings;
+DEVS240:Culture and Development
+
+*** view multiple offerings;
+DEVS250:Environmental Transformations;
+DEVS260:Globalization, Gender & Development
+
+*** view multiple offerings;
+DEVS280:Global Engagement;
+DEVS292:Topics in Development Studies I;
+DEVS293:Topics in Development Studies II;
+DEVS300:Cross-Cultural Research Method;
+DEVS305:Cuban Culture & Society;
+DEVS321:Development Dramas;
+DEVS340:Theories of Development;
+DEVS350:Gender and Development;
+DEVS351:Labour and Global Development;
+DEVS352:Technology and Development;
+DEVS353:Business and Global Development;
+DEVS354:Cities and Urbanization in the South;
+DEVS355:AIDS, Power, and Poverty;
+DEVS356:The Political Economy of Resource Extraction;
+DEVS357:Global Conflict and Local Peacebuilding;
+DEVS358:Non-Governmental Organisations, Policy Making and Development;
+DEVS359:Migrations, Refugees and Development;
+DEVS361:Project Planning and Policy Advocacy;
+DEVS362:Globally Engaged Experiential Learning;
+DEVS363:Contemporary Southern Africa: Development Trends and Challenges;
+DEVS392:Topics in Development Studies I;
+DEVS393:Topics in Development Studies I;
+DEVS394:Topics in Development Studies III;
+DEVS395:Topics in Development Studies IV;
+DEVS396:Topics in Development Studies V;
+DEVS410:Work Study Placement in Development Studies;
+DEVS410A:Work Placement in Development Studies;
+DEVS410B:Work-Study Placement in Development Studies;
+DEVS411:Post-Placement Seminar in Development Studies;
+DEVS420:Study Placement in Development Studies;
+DEVS480:Reindigenizing People and Environment;
+DEVS490:Senior Sem.:Strategies For Chg;
+DEVS491:Topics In International Develo;
+DEVS492:Topics in Development Studies I;
+DEVS501:Hons Thesis in Devs;
+DEVS501A:Honours Thesis in Development Studies;
+DEVS501B:Honours Thesis in Development Studies;
+DEVS502:Directed Readings in Development Studies;
+DEVS594:Independent Study
+
+*** view multiple offerings;
+DEVS801:Political Economy of Development;
+DEVS802:Cultural Politics of Development;
+DEVS803:Qualitative Research Methods and Fieldwork;
+DEVS811:Advanced Topics in Political Economy of Development;
+DEVS812:Advanced Topics in Cultural Politics of Development;
+DEVS813:Advanced Topics in Sustainable Development;
+DEVS814:Advanced Topics in Indigenous Studies;
+DEVS815:Advanced Topics in Global Development Studies;
+DEVS850:Professional Seminar in Development Studies;
+DEVS861:Development and the Global Agrofood System;
+DEVS862:Alliance Politics, Solidarity Movements in the Global Context;
+DEVS863:Development within Planetary Boundaries;
+DEVS864:Development, Power and Inequity in the Global North;
+DEVS865:Political Ecology;
+DEVS866:Approaches to Sustainable Livelihood Development;
+DEVS867:Transnational Feminisms;
+DEVS868:Peacebuilding and Development;
+DEVS869:Global Governance;
+DEVS870:The 'African Renaissance' in Comparative Perspective;
+DEVS871:Energy Democracy;
+DEVS872:Indigenous Theory;
+DEVS873:Privatization and its Discontents;
+DEVS874:Topics in Development Studies 14;
+DEVS875:Topics in Development Studies 15;
+DEVS876:Topics in Development Studies 16;
+DEVS877:Topics in Development Studies 17;
+DEVS878:Topics in Development Studies 18;
+DEVS879:Topics in Development Studies 19;
+DEVS890:Directed Readings in Development Studies;
+DEVS891:Graduate Work Placement in Development Studies;
+DEVS892:Special Topics;
+DEVS893:Special Topics;
+DEVS894:Topics in Development Studies 14;
+DEVS898:Master's Research Paper;
+DEVS899:Master's Thesis;
+DEVS950:Professional Seminar in Development Studies;
+DEVS999:Ph.D. Thesis Research;
+dm: Advanced Design & Manufacturin;
+DM810:Intelligent Manufacturing;
+DM811:Design For Manufacturability;
+DM812:Finite Elmnt Analysis:Des. Eng;
+DM814:Rapid Mechanical Design;
+DM816:Design for Innovation;
+DM817:Ergonomic Design;
+DM822:Mechatronics Engineering;
+DM824:Materials Selection in Design;
+DM826:Advanced Industrial Energy Management;
+DM863:Financial & Managerial Account;
+DM864:Principals Of Techn Communicat;
+DM865:Business To Business Marketing;
+DM872:Engineering Leadership;
+DM881:Technical Entrepreneurship & Innovation;
+DM885:Advanced Project Management;
+DM890:Operations & Supply Chain Mgmt;
+dram: Drama;
+DRAM1UNS:Unspecified - 100 Level;
+DRAM2UNS:Unspecified - 200 Level;
+DRAM3UNS:Unspecified - 300 Level;
+DRAM4UNS:Unspecified - 400 Level;
+DRAM100A:Introduction to the Theatre;
+DRAM100B:Introduction to the Theatre;
+DRAM181A:Introduction to Current Theatre;
+DRAM181B:Introduction to Current Theatre;
+DRAM200A:Theatre History & Literature I;
+DRAM200B:Theatre History & Literature I;
+DRAM201:Drama I;
+DRAM202:Drama II;
+DRAM205:Theatricality and Mass Media
+
+*** view multiple offerings;
+DRAM210A:Theatre History;
+DRAM210B:Theatre History;
+DRAM211:Introduction to Theatre for Young Audiences;
+DRAM219:Special Studies I;
+DRAM220:Play Reading and Analysis;
+DRAM236:Public Presentation;
+DRAM237:Elementary Acting I - The Actor's Instrument;
+DRAM238:Elementary Acting II - Theories and Styles of Acting;
+DRAM239:Special Topics in Performance I;
+DRAM240:Introduction To Theatre Space;
+DRAM241:Design and Theatre;
+DRAM242:Introduction To Theatre Production;
+DRAM246:Technical Practicum;
+DRAM246A:Technical Practicum;
+DRAM246B:Technical Practicum;
+DRAM247:Drama Practicum;
+DRAM251:Introduction to Playwriting
+
+*** view multiple offerings;
+DRAM273:Medieval Drama Performance
+
+*** view multiple offerings;
+DRAM289:British and European Theatre;
+DRAM300A:Theatre History & Literature II;
+DRAM300B:Theatre History & Literature !!;
+DRAM301:Theories of the Theatre I;
+DRAM303:Indigenous Playwrights
+
+*** view multiple offerings;
+DRAM306:Canadian Drama;
+DRAM310:Modernist Staging;
+DRAM311:Theatre for Young Audiences;
+DRAM314:Young Peoples' Theatre Practicum;
+DRAM319:Special Studies II;
+DRAM321:Histories and Theories of Directing;
+DRAM323:Practical Concerns in Directing;
+DRAM331:Playing Shakespeare;
+DRAM332:Performing with Masks;
+DRAM335:Acting for the Screen;
+DRAM339:Special Topics/Performance II;
+DRAM342:Elements of Design Practice;
+DRAM344:Scenography;
+DRAM345:Applied Technical Production;
+DRAM345A:Applied Technical Production;
+DRAM345B:Applied Technical Production;
+DRAM350A:Playwriting III;
+DRAM350B:Playwriting III;
+DRAM351:Playwriting and Dramaturgy III;
+DRAM371:Modern Drama at the Shaw Festival;
+DRAM373:Scene Study at the Shaw Festival;
+DRAM375:Women and Theatre I;
+DRAM381:Contemporary British Theatre and Drama;
+DRAM395:Internship;
+DRAM395A:Internship;
+DRAM395B:Internship;
+DRAM400A:Applied Theatre;
+DRAM400B:Applied Theatre;
+DRAM419:Special Studies III;
+DRAM422:Directing Practicum I;
+DRAM431:Advanced Acting:Performance I;
+DRAM439:Special Topics Performance III;
+DRAM448:Theatre Administration;
+DRAM476:Cultures of Theatre;
+DRAM500A:Senior Project;
+DRAM500B:Senior Project;
+DRAM501:Directed Special Studies;
+DRAM501A:Directed Special Study;
+DRAM501B:Directed Special Study;
+DRAM502:Directed Special Studies;
+DRAM541A:Directed Studies Design;
+DRAM541B:Directed Studies Design;
+DRAM545A:Advanced Technical Production;
+DRAM545B:Advanced Technical Production;
+DRAM594:Independent Study;
+DRAM595A:Independent Study;
+DRAM595B:Independent Study;
+DRAM596:Independent Study;
+DRAM597:Independent Study;

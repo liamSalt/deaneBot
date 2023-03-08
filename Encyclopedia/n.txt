@@ -1,0 +1,4 @@
+newmanhouse:newman-house;
+nicolhall,nicol:nicol-hall;
+nicolwilliam:nicol-william;
+nursingschool,nursing:nursing-school;

@@ -1,0 +1,15 @@
+hamiltonherbertjones:hamilton-herbert-jones;
+harkness,hark,harknessinternationalhall:harkness;
+harrisonfrank:harrison-frank;
+harrisonlecainehall,harrisonlecainehall:harrison-lecaine-hall;
+hartyjohn%E2%80%9Cjock%E2%80%9D:harty-john-%E2%80%9Cjock%E2%80%9D;
+healthsciencesfaculty,healthsciences:health-sciences-faculty;
+heritagestudy:heritage-study;
+historydepartment,history:history-department;
+historyqueensoverview:history-queens-overview;
+historyqueenscampusbrief:history-queens-campus-brief;
+hitchcockkarenr:hitchcock-karen-r;
+hockeyfirstgame:hockey-first-game;
+honorarydegrees:honorary-degrees;
+humphreygeorge:humphrey-george;
+humphreyhall,humphrey:humphrey-hall;

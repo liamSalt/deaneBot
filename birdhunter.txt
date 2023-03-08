@@ -1,0 +1,742 @@
+**Course: Description**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA |
+https://www.qubirdhunter.com/?page_id=283;**INUK 102: Beg. Inuktitut Lang & Cult II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|16        |69|19|13|0 |0 |0 |0 |0 |0 |0 |0 |0 |0 |4.2287 |
+https://www.qubirdhunter.com/?page_id=283;**ELEC 498: Computer Engineering Project**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|85        |72|21|6 |0 |1 |0 |0 |0 |0 |0 |0 |0 |0 |4.2096 |
+https://www.qubirdhunter.com/?page_id=283;**SOFT 437: Performance Analysis**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|105       |65|25|8 |2 |1 |0 |0 |0 |0 |0 |0 |0 |0 |4.2071 |
+https://www.qubirdhunter.com/?page_id=283;**GLPH 471: Adv Global & Population Health**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|132       |70|20|6 |2 |1 |0 |0 |1 |0 |0 |0 |0 |2 |4.1696 |
+https://www.qubirdhunter.com/?page_id=283;**HLTH 305: Fundamentals of Health Policy**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|167       |60|22|12|2 |4 |1 |0 |0 |0 |0 |0 |0 |0 |4.1356 |
+https://www.qubirdhunter.com/?page_id=283;**ELEC 390: Elec & Computer Eng. Design**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|189       |57|20|13|5 |4 |1 |0 |0 |0 |0 |0 |0 |1 |4.0626 |
+https://www.qubirdhunter.com/?page_id=283;**PROF 210: Self as Learner**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|229       |78|17|0 |0 |0 |0 |0 |0 |0 |0 |0 |0 |1 |4.0574 |
+https://www.qubirdhunter.com/?page_id=283;**KNPE 436: Disability & Aging Internship**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|17        |18|65|18|0 |0 |0 |0 |0 |0 |0 |0 |0 |0 |4.0454 |
+https://www.qubirdhunter.com/?page_id=283;**ELEC 299: Mechatronics Project**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|213       |31|37|25|6 |0 |0 |0 |0 |1 |0 |0 |0 |0 |3.9641 |
+https://www.qubirdhunter.com/?page_id=283;**ELEC 374: Digital Systems Engineering**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|131       |60|11|11|8 |5 |2 |2 |0 |0 |0 |0 |0 |1 |3.962 |
+https://www.qubirdhunter.com/?page_id=283;**ELEC 373: Computer Networks**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|144       |60|11|11|8 |5 |2 |2 |0 |0 |0 |0 |0 |1 |3.962 |
+https://www.qubirdhunter.com/?page_id=283;**HTLTH 331: Advanced Human Nutrition**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|166       |41|25|17|8 |5 |2 |0 |1 |1 |0 |0 |1 |0 |3.9187 |
+https://www.qubirdhunter.com/?page_id=283;**FREN 107: Communication et Culture II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|431       |52|24|9 |4 |3 |2 |1 |1 |0 |0 |0 |0 |1 |3.8651 |
+https://www.qubirdhunter.com/?page_id=283;**BMED 380: Evolutionary Biology of Cancer**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|100       |28|31|24|7 |5 |2 |1 |0 |2 |0 |0 |0 |0 |3.8348 |
+https://www.qubirdhunter.com/?page_id=283;**CHEM 497: Research Project**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|30        |37|27|20|7 |3 |3 |0 |0 |0 |0 |0 |0 |3 |3.8262 |
+https://www.qubirdhunter.com/?page_id=283;**PHAR 380: Drug & Environmental Tox**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|70        |24|26|33|6 |9 |1 |1 |0 |0 |0 |0 |0 |0 |3.8203 |
+https://www.qubirdhunter.com/?page_id=283;**COMM 302: Launching New Ventures**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|79        |28|32|16|13|5 |3 |0 |3 |0 |0 |1 |0 |0 |3.8183 |
+https://www.qubirdhunter.com/?page_id=283;**PHGY 355: Biomed. Respiratory Physiology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|15        |27|33|13|13|7 |7 |0 |0 |0 |0 |0 |0 |0 |3.802 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 402: Experiments in Plant Phgy**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|38        |5 |37|45|8 |3 |0 |3 |0 |0 |0 |0 |0 |0 |3.7878 |
+https://www.qubirdhunter.com/?page_id=283;**GLPH 271: Global and Population Health**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|330       |31|29|22|5 |5 |3 |1 |1 |0 |0 |0 |0 |2 |3.7571 |
+https://www.qubirdhunter.com/?page_id=283;**CANC 440: Cancer Biology & Theraputics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|22        |14|32|27|18|9 |0 |0 |0 |0 |0 |0 |0 |0 |3.7546 |
+https://www.qubirdhunter.com/?page_id=283;**DDHT 460: Principles of Drug Development**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|21        |14|32|27|18|9 |0 |0 |0 |0 |0 |0 |0 |0 |3.7546 |
+https://www.qubirdhunter.com/?page_id=283;**PHAR 450: Principles of General Phar II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|72        |33|19|22|13|6 |0 |3 |3 |0 |0 |0 |0 |1 |3.7457 |
+https://www.qubirdhunter.com/?page_id=283;**PATH 430: The Molecular Basis of Disease**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|25        |12|32|32|16|0 |8 |0 |0 |0 |0 |0 |0 |0 |3.7324 |
+https://www.qubirdhunter.com/?page_id=283;**ANAT 100: Anatomy of the Human Body**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|780       |38|25|16|6 |5 |2 |1 |1 |1 |1 |1 |0 |3 |3.7248 |
+https://www.qubirdhunter.com/?page_id=283;**EMPR 250: Managing Workplace Wellness**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|25        |16|36|28|8 |8 |0 |0 |0 |0 |0 |0 |4 |0 |3.7032 |
+https://www.qubirdhunter.com/?page_id=283;**ENIN 140: Design Thinking**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|1401      |21|27|28|10|6 |2 |2 |1 |0 |0 |1 |0 |1 |3.6689 |
+https://www.qubirdhunter.com/?page_id=283;**ENSC 315: Global Food Security Agricult**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|71        |23|24|25|11|7 |4 |3 |1 |0 |1 |0 |0 |0 |3.6684 |
+https://www.qubirdhunter.com/?page_id=283;**LISC 300: The Process of Discovery**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|19        |0 |21|53|26|0 |0 |0 |0 |0 |0 |0 |0 |0 |3.6668 |
+https://www.qubirdhunter.com/?page_id=283;**PSYC 353: Atypical Development**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|94        |2 |29|52|7 |7 |1 |1 |0 |0 |0 |0 |0 |0 |3.664 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 343: Data Analysis for Biologists**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|53        |25|26|17|8 |13|8 |0 |0 |0 |0 |4 |0 |0 |3.6639 |
+https://www.qubirdhunter.com/?page_id=283;**GPHY 339: Medical Geography**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|144       |13|26|30|14|8 |5 |2 |2 |0 |1 |0 |0 |2 |3.654 |
+https://www.qubirdhunter.com/?page_id=283;**NURS 100: Nutrition and Health**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|124       |22|18|23|14|11|8 |3 |1 |1 |0 |0 |0 |0 |3.6427 |
+https://www.qubirdhunter.com/?page_id=283;**NSCI 324: Systems Neuroscience**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|92        |25|23|24|8 |8 |5 |1 |3 |0 |0 |0 |2 |1 |3.6292 |
+https://www.qubirdhunter.com/?page_id=283;**CHEM 282: Systems Neuroscience**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|92        |25|23|24|8 |8 |5 |1 |3 |0 |0 |0 |2 |1 |3.6292 |
+https://www.qubirdhunter.com/?page_id=283;**COMM 600: Business Fundamentals**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|19        |21|16|26|16|16|0 |0 |5 |0 |0 |0 |0 |0 |3.6241 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 350: Evolution and Human Affairs**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|236       |21|23|30|5 |9 |4 |2 |2 |0 |1 |0 |0 |2 |3.5837 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 334: Comparative Biochemistry**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|275       |41|15|12|7 |6 |7 |2 |3 |1 |1 |1 |1 |3 |3.5753 |
+https://www.qubirdhunter.com/?page_id=283;**BMED 383: Adv Research Methodologies**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|275       |41|15|12|7 |6 |7 |2 |3 |1 |1 |1 |1 |3 |3.5753 |
+https://www.qubirdhunter.com/?page_id=283;**LLCU 320: Fascism in Europe**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|32        |13|28|19|16|13|6 |0 |0 |6 |0 |0 |0 |0 |3.5727 |
+https://www.qubirdhunter.com/?page_id=283;**CLST 203: Myth and Religion**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|236       |21|23|30|5 |9 |4 |2 |2 |0 |0 |0 |0 |2 |3.5704 |
+https://www.qubirdhunter.com/?page_id=283;**ENSC 201: Env Tox & Chem Risks**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|206       |24|23|22|8 |6 |9 |1 |2 |1 |1 |0 |0 |2 |3.5562 |
+https://www.qubirdhunter.com/?page_id=283;**HLTH 200: Physical Fitness and Wellness**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|164       |19|30|26|4 |10|2 |1 |2 |0 |1 |0 |1 |4 |3.5555 |
+https://www.qubirdhunter.com/?page_id=283;**CMPE 223: Software Specifications**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|61        |33|11|18|8 |15|7 |0 |2 |0 |2 |2 |2 |2 |3.5409 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 321: Animal Behaviour**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|142       |4 |32|33|9 |12|3 |3 |1 |2 |0 |0 |0 |1 |3.5388 |
+https://www.qubirdhunter.com/?page_id=283;**PATH 310: Path and Molecular Medicine**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|178       |17|27|22|8 |10|8 |1 |4 |1 |0 |0 |0 |1 |3.5328 |
+https://www.qubirdhunter.com/?page_id=283;**HLTH 102: Personal Health and Wellness**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|457       |18|23|28|8 |8 |4 |3 |3 |2 |1 |0 |0 |2 |3.527 |
+https://www.qubirdhunter.com/?page_id=283;**HLTH 235: Food Systems**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|163       |11|21|28|9 |17|6 |2 |2 |1 |1 |3 |1 |0 |3.4779 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 416: Terrestrial Ecosystems**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|17        |12|0 |41|12|29|6 |0 |0 |0 |0 |0 |0 |0 |3.4682 |
+https://www.qubirdhunter.com/?page_id=283;**LAW 201: Introduction to Canadian Law**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|510       |5 |25|31|14|11|6 |3 |2 |1 |0 |1 |0 |1 |3.4586 |
+https://www.qubirdhunter.com/?page_id=283;**PHAR 100: Introductory Pharmacology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|494       |23|24|17|9 |8 |5 |4 |3 |1 |1 |1 |0 |4 |3.4531 |
+https://www.qubirdhunter.com/?page_id=283;**CISC 365: Algorithms I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|154       |25|15|18|12|11|5 |5 |3 |1 |2 |1 |1 |1 |3.4502 |
+https://www.qubirdhunter.com/?page_id=283;**ANAT 216: Princ of Human Morphology II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|186       |16|18|24|10|12|7 |5 |5 |1 |1 |1 |0 |1 |3.4396 |
+https://www.qubirdhunter.com/?page_id=283;**ENSC 390: Sustainability**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|94        |6 |19|35|11|18|4 |3 |2 |0 |0 |0 |0 |1 |3.439 |
+https://www.qubirdhunter.com/?page_id=283;**GPHY 371: Spec Topics In Earth System Sc**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|43        |21|23|23|12|5 |0 |2 |5 |2 |2 |0 |0 |5 |3.4371 |
+https://www.qubirdhunter.com/?page_id=283;**ENGL 218: Intro: Indigenous Literatures**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|60        |0 |23|45|8 |13|7 |0 |0 |0 |0 |0 |0 |3 |3.4304 |
+https://www.qubirdhunter.com/?page_id=283;**CISC 235: Data Structures**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|185       |16|26|18|11|10|6 |4 |2 |1 |1 |2 |0 |3 |3.4106 |
+https://www.qubirdhunter.com/?page_id=283;**GRMN 102: Beginner’s German II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|67        |24|21|15|6 |10|10|4 |1 |3 |0 |0 |3 |1 |3.3892 |
+https://www.qubirdhunter.com/?page_id=283;**CISC 223: Software Specifications**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|205       |31|15|14|6 |9 |11|2 |4 |1 |0 |0 |2 |2 |3.3847 |
+https://www.qubirdhunter.com/?page_id=283;**POLS 387: Politics and Culture**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|58        |3 |21|29|19|10|5 |9 |0 |3 |0 |0 |0 |0 |3.3713 |
+https://www.qubirdhunter.com/?page_id=283;**FREN 118: Communication et Culture III**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|153       |8 |31|23|10|7 |6 |3 |3 |3 |2 |1 |1 |4 |3.3669 |
+https://www.qubirdhunter.com/?page_id=283;**MATH 311: Elementary Number Theory**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|30        |30|17|3 |7 |17|0 |10|10|3 |0 |3 |0 |0 |3.3471 |
+https://www.qubirdhunter.com/?page_id=283;**ENGL 160: Modern Prose Fiction**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|56        |2 |14|38|20|14|0 |4 |4 |0 |0 |0 |5 |0 |3.3468 |
+https://www.qubirdhunter.com/?page_id=283;**ASTR 102: Astro2 Stars, Galaxies, Universe**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|80        |19|21|16|9 |14|4 |3 |6 |1 |3 |1 |0 |4 |3.3392 |
+https://www.qubirdhunter.com/?page_id=283;**ENSC 301: Environmental Assessment**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|89        |16|13|30|3 |13|12|2 |6 |2 |0 |0 |0 |1 |3.3373 |
+https://www.qubirdhunter.com/?page_id=283;**CMPE 458: Programming Language Processor**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|41        |17|12|27|12|10|5 |2 |5 |7 |0 |0 |0 |2 |3.3153 |
+https://www.qubirdhunter.com/?page_id=283;**PHYS 106: General Physics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|102       |6 |18|24|11|14|14|2 |5 |6 |1 |0 |1 |0 |3.301 |
+https://www.qubirdhunter.com/?page_id=283;**ELEC 280: Fund. Of Electromagnetics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|205       |17|17|18|11|9 |8 |9 |4 |2 |2 |1 |0 |2 |3.2947 |
+https://www.qubirdhunter.com/?page_id=283;**CISC 221: Computer Architecture**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|129       |11|17|22|12|15|5 |9 |3 |1 |2 |0 |2 |2 |3.2822 |
+https://www.qubirdhunter.com/?page_id=283;**PHYS 212: Vibrations and Waves**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|44        |43|7 |9 |2 |16|2 |0 |5 |5 |0 |2 |0 |9 |3.2805 |
+https://www.qubirdhunter.com/?page_id=283;**ECON 361: Income Dist & Problem Inequel**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|56        |14|18|21|13|7 |9 |4 |7 |0 |4 |0 |0 |4 |3.2755 |
+https://www.qubirdhunter.com/?page_id=283;**PHGY 216: Princ of Mamm Physiology II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|564       |16|20|16|11|10|6 |6 |5 |3 |2 |2 |1 |2 |3.2575 |
+https://www.qubirdhunter.com/?page_id=283;**PHGY 350: Pathophysiology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|69        |35|13|12|6 |4 |7 |4 |1 |4 |3 |4 |1 |4 |3.2564 |
+https://www.qubirdhunter.com/?page_id=283;**PSYC 399: Sel. Topics in Psychology II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|194       |7 |19|25|19|7 |8 |3 |3 |1 |1 |4 |1 |2 |3.254 |
+https://www.qubirdhunter.com/?page_id=283;**DEVS 240: Culture & Development**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|188       |12|22|18|11|14|6 |3 |5 |2 |1 |1 |1 |4 |3.2481 |
+https://www.qubirdhunter.com/?page_id=283;**MATH 339: Evolutionary Game Theory**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|192       |18|17|18|11|7 |9 |4 |5 |2 |3 |1 |1 |3 |3.2288 |
+https://www.qubirdhunter.com/?page_id=283;**ARTH 215: Renaissance Art post-1500**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|103       |15|22|20|7 |7 |11|4 |1 |4 |1 |2 |0 |7 |3.2241 |
+https://www.qubirdhunter.com/?page_id=283;**MATH 126: Diff. & Integral Calculus**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|235       |32|14|8 |9 |7 |6 |5 |4 |2 |3 |2 |2 |6 |3.2177 |
+https://www.qubirdhunter.com/?page_id=283;**PHYS 250: Foundations of Experim. Phys.**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|52        |13|31|13|6 |12|2 |6 |4 |0 |6 |0 |0 |7 |3.1973 |
+https://www.qubirdhunter.com/?page_id=283;**GEOL 249: Geophysical Char of the Earth**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|32        |19|16|13|0 |16|16|3 |3 |9 |3 |0 |0 |3 |3.1785 |
+https://www.qubirdhunter.com/?page_id=283;**HIST 255: Renaissance & Reform. Europe**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|149       |7 |18|28|5 |15|10|2 |5 |3 |0 |3 |0 |5 |3.1732 |
+https://www.qubirdhunter.com/?page_id=283;**MICR 221: Basic Microbiology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|204       |13|13|21|10|12|8 |6 |7 |4 |0 |3 |1 |1 |3.1537 |
+https://www.qubirdhunter.com/?page_id=283;**PSYC 236: Clinical Psychology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|490       |10|16|23|8 |12|9 |5 |7 |3 |2 |2 |0 |3 |3.1475 |
+https://www.qubirdhunter.com/?page_id=283;**BCHM 310: General Biochemistry**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|93        |2 |16|26|14|12|12|3 |8 |1 |2 |2 |0 |2 |3.1323 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 316: Fisheries Biology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|142       |9 |13|24|10|13|7 |7 |10|2 |1 |1 |0 |3 |3.1301 |
+https://www.qubirdhunter.com/?page_id=283;**GPHY 314: Climate Change**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|142       |8 |20|21|12|14|7 |2 |4 |1 |2 |1 |1 |6 |3.1192 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 206: Evolutionary Genetics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|257       |5 |13|21|15|14|8 |9 |10|2 |1 |0 |1 |2 |3.113 |
+https://www.qubirdhunter.com/?page_id=283;**CHEM 425: Self Assembly & Materials**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|18        |6 |22|22|6 |11|0 |6 |17|6 |0 |0 |6 |0 |3.1074 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 202: Diversity of Life II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|273       |11|14|23|5 |14|11|2 |5 |8 |1 |2 |1 |4 |3.0937 |
+https://www.qubirdhunter.com/?page_id=283;**BCHM 316: Metabolism**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|87        |20|17|9 |10|9 |10|3 |6 |3 |3 |5 |0 |3 |3.0828 |
+https://www.qubirdhunter.com/?page_id=283;**ELEC 273: Numerical Meth & Optimization**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|82        |7 |15|16|17|13|7 |7 |7 |4 |4 |1 |0 |1 |3.0745 |
+https://www.qubirdhunter.com/?page_id=283;**GPHY 101: Human Geography**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|335       |10|16|21|11|12|10|1 |6 |2 |1 |2 |2 |6 |3.0709 |
+https://www.qubirdhunter.com/?page_id=283;**HIST 314: Amer Soc & Cult Since 1877**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|19        |0 |16|11|16|26|11|11|5 |0 |0 |5 |0 |0 |3.0631 |
+https://www.qubirdhunter.com/?page_id=283;**ANAT 316: The Human Visceral Systems**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|256       |11|11|27|5 |12|10|4 |5 |4 |3 |3 |2 |4 |3.0569 |
+https://www.qubirdhunter.com/?page_id=283;**PHIL 153: The State & The Citizen**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|94        |9 |7 |19|18|18|10|5 |6 |2 |0 |0 |0 |5 |3.0526 |
+https://www.qubirdhunter.com/?page_id=283;**SOCY 225: Sociology of Globalization**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|105       |1 |7 |30|17|21|7 |6 |4 |0 |1 |0 |0 |8 |3.0515 |
+https://www.qubirdhunter.com/?page_id=283;**DEVS 333: Business & Global Development**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|79        |0 |5 |22|14|32|9 |5 |8 |3 |3 |0 |0 |1 |3.0506 |
+https://www.qubirdhunter.com/?page_id=283;**PSYC 203: Research Methods in Psychology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|211       |9 |13|23|9 |12|9 |5 |9 |2 |1 |2 |2 |4 |3.0412 |
+https://www.qubirdhunter.com/?page_id=283;**SOFT 423: Software Requirements**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|26        |0 |8 |12|23|23|12|8 |15|0 |0 |0 |0 |0 |3.0303 |
+https://www.qubirdhunter.com/?page_id=283;**POLS 250: Political Theory**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|264       |2 |6 |22|11|22|18|6 |6 |3 |1 |1 |1 |1 |2.994 |
+https://www.qubirdhunter.com/?page_id=283;**HIST 213: Comparative Public Policy**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|27        |7 |15|19|19|11|7 |4 |0 |4 |0 |7 |0 |7 |2.989 |
+https://www.qubirdhunter.com/?page_id=283;**CHEM 112: General Chemistry**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|1113      |7 |13|18|12|13|11|8 |5 |3 |3 |2 |2 |4 |2.987 |
+https://www.qubirdhunter.com/?page_id=283;**SOCY 235: Race and Racialization**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|101       |0 |1 |34|15|21|7 |6 |7 |4 |0 |0 |1 |5 |2.9713 |
+https://www.qubirdhunter.com/?page_id=283;**POLS 396: Topics in Intl Relations**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|31        |0 |16|32|19|6 |3 |3 |3 |3 |3 |3 |0 |6 |2.9685 |
+https://www.qubirdhunter.com/?page_id=283;**MATH 120: Diff. & Integral Calculus**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|142       |20|12|14|6 |6 |11|8 |6 |1 |3 |4 |3 |7 |2.9651 |
+https://www.qubirdhunter.com/?page_id=283;**PHYS 117: Introductory Physics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|670       |15|11|13|8 |11|8 |7 |12|6 |3 |3 |1 |3 |2.9649 |
+https://www.qubirdhunter.com/?page_id=283;**POLS 347: Politics of Africa**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|42        |19|12|14|7 |12|12|0 |2 |5 |0 |5 |5 |7 |2.9478 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 331: Analytical Genomics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|110       |5 |15|17|9 |15|15|3 |7 |5 |3 |1 |0 |5 |2.945 |
+https://www.qubirdhunter.com/?page_id=283;**ELEC 472: A.I. & Interactive Systems**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|116       |16|11|11|10|11|9 |4 |9 |5 |5 |3 |3 |1 |2.9215 |
+https://www.qubirdhunter.com/?page_id=283;**ECON 262: Labour Market&Gender Differenc**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|75        |12|11|19|5 |12|9 |7 |7 |4 |1 |7 |5 |1 |2.9215 |
+https://www.qubirdhunter.com/?page_id=283;**CHEM 282: General Organic Chemistry II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|400       |12|10|17|7 |10|10|6 |10|7 |4 |4 |1 |4 |2.9107 |
+https://www.qubirdhunter.com/?page_id=283;**ECON 232: Diffusion Mod Economic Growth**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|101       |3 |7 |11|14|18|18|15|11|0 |0 |1 |1 |2 |2.8956 |
+https://www.qubirdhunter.com/?page_id=283;**ECON 110: Principles of Economics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|820       |3 |9 |17|10|19|14|7 |10|5 |2 |1 |1 |1 |2.8916 |
+https://www.qubirdhunter.com/?page_id=283;**GPHY 250: The Geography of Canada**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|139       |2 |16|22|9 |12|11|5 |5 |6 |2 |4 |1 |7 |2.8894 |
+https://www.qubirdhunter.com/?page_id=283;**PSYC 100: Principles of Psychology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|2005      |4 |11|18|12|14|10|10|7 |4 |3 |3 |1 |4 |2.8867 |
+https://www.qubirdhunter.com/?page_id=283;**PHGY 215: Princ of Mamm Physiology I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|72        |7 |15|18|4 |11|13|7 |7 |6 |3 |3 |1 |6 |2.8653 |
+https://www.qubirdhunter.com/?page_id=283;**PSYC 370: Brain and Behaviour II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|103       |7 |16|19|6 |12|7 |6 |8 |2 |3 |5 |5 |6 |2.8536 |
+https://www.qubirdhunter.com/?page_id=283;**PHGY 170: Human Cell Physiology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|85        |29|9 |8 |6 |7 |8 |6 |2 |2 |4 |1 |5 |12|2.8495 |
+https://www.qubirdhunter.com/?page_id=283;**CMPE 454: Computer Graphics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|44        |9 |16|14|2 |5 |18|9 |7 |9 |0 |2 |7 |2 |2.822 |
+https://www.qubirdhunter.com/?page_id=283;**MATH 210: Rings and Fields**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|118       |12|8 |17|12|10|9 |5 |7 |3 |1 |3 |5 |8 |2.797 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 103: Intro Biology of Organisms**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|1087      |5 |6 |21|7 |16|14|5 |9 |6 |2 |2 |3 |3 |2.7907 |
+https://www.qubirdhunter.com/?page_id=283;**MTHE 228: Complex Analysis**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|84        |13|11|13|10|10|12|5 |6 |0 |2 |4 |6 |10|2.786 |
+https://www.qubirdhunter.com/?page_id=283;**GPHY 227: Cities: Gphy Plan & Urban Life**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|99        |2 |12|16|12|15|12|6 |8 |3 |3 |2 |4 |4 |2.7709 |
+https://www.qubirdhunter.com/?page_id=283;**GEOL 106: Enviro Geol & Natural Hazards**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|383       |7 |13|13|8 |14|9 |7 |11|5 |3 |1 |0 |10|2.7515 |
+https://www.qubirdhunter.com/?page_id=283;**PPEC 200: Intro to Pols, Phil, and Econ**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|44        |0 |14|11|16|30|7 |2 |5 |0 |0 |0 |2 |14|2.7494 |
+https://www.qubirdhunter.com/?page_id=283;**HIST 124: Canada in the World**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|208       |1 |6 |16|11|16|19|11|7 |3 |1 |2 |1 |5 |2.7222 |
+https://www.qubirdhunter.com/?page_id=283;**KNPE 255: Physical Activity Fitness & Hlth**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|180       |2 |11|15|10|9 |12|11|13|5 |4 |1 |3 |4 |2.6941 |
+https://www.qubirdhunter.com/?page_id=283;**PSYC 221: Cognitive Psychology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|236       |6 |11|21|8 |14|7 |0 |8 |5 |5 |2 |1 |5 |2.6907 |
+https://www.qubirdhunter.com/?page_id=283;**GPHY 228: Gphy of Global Pol Econ**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|135       |1 |7 |21|5 |18|21|5 |7 |1 |1 |1 |1 |10|2.6776 |
+https://www.qubirdhunter.com/?page_id=283;**ECON 255: Intro Mathematical Economics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|136       |14|14|9 |4 |4 |15|7 |8 |4 |4 |4 |4 |7 |2.6697 |
+https://www.qubirdhunter.com/?page_id=283;**STAT 269: Statistics & Probability II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|143       |19|6 |15|9 |7 |6 |5 |9 |1 |1 |3 |2 |17|2.6602 |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 341: Plant Physiology **
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|104       |8 |10|13|10|10|11|7 |8 |3 |3 |5 |5 |10|2.6564 |
+https://www.qubirdhunter.com/?page_id=283;**CLST 201: Roman History**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|164       |15|11|11|3 |9 |7 |7 |9 |5 |3 |8 |3 |10|2.6244 |
+https://www.qubirdhunter.com/?page_id=283;**SOCY 211: Introduction to Statistics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|169       |2 |7 |12|6 |15|20|7 |16|0 |5 |4 |4 |4 |2.618 |
+https://www.qubirdhunter.com/?page_id=283;**ELEC 274: Computer Architecture**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|281       |6 |13|10|7 |11|8 |8 |9 |7 |7 |6 |5 |2 |2.6024 |
+https://www.qubirdhunter.com/?page_id=283;**ELEC 252: Electronics I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|290       |1 |3 |13|10|15|16|10|12|10|3 |4 |1 |2 |2.5892 |
+https://www.qubirdhunter.com/?page_id=283;**SOCY 227: Theorizing Contemporary Soc.**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|165       |1 |8 |12|7 |13|19|9 |18|1 |0 |1 |2 |10|2.5541 |
+https://www.qubirdhunter.com/?page_id=283;**GPHY 102: Geography Resources**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|245       |7 |11|12|10|12|4 |9 |8 |4 |5 |4 |3 |9 |2.5533 |
+https://www.qubirdhunter.com/?page_id=283;**MATH 121: Diff & Integral Calculus**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|1228      |9 |10|12|6 |11|7 |6 |9 |6 |6 |5 |4 |8 |2.5321 |
+https://www.qubirdhunter.com/?page_id=283;**PHYS 239: Electromagnetism**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|52        |19|4 |12|8 |8 |4 |8 |6 |4 |4 |4 |2 |19|2.5227 |
+https://www.qubirdhunter.com/?page_id=283;**MATH 110: Linear Algebra II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|130       |8 |8 |13|3 |14|8 |7 |7 |9 |5 |7 |2 |9 |2.4899 |
+https://www.qubirdhunter.com/?page_id=283;**CISC 101: Elements of Comp. Sc.**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|106       |8 |12|8 |7 |7 |8 |6 |8 |5 |7 |7 |10|9 |2.3994 |
+https://www.qubirdhunter.com/?page_id=283;**STAT 263: Introduction to Statistics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|401       |17|8 |9 |4 |7 |4 |4 |5 |8 |4 |5 |11|12|2.3497 |
+https://www.qubirdhunter.com/?page_id=283;**ECON 222: Macroeconomic Theory I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|156       |11|8 |6 |4 |10|8 |8 |9 |6 |4 |7 |2 |18|2.2731 |
+https://www.qubirdhunter.com/?page_id=283;**GEOL 238: Surficial Proc Sed & Strat**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|34        |0 |12|0 |12|12|9 |6 |12|18|0 |6 |6 |9 |2.2704 |
+https://www.qubirdhunter.com/?page_id=283;**POLS 385: Introduction to Statistics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|179       |4 |7 |12|7 |13|10|4 |7 |6 |3 |4 |5 |17|2.2404 |
+https://www.qubirdhunter.com/?page_id=283;**MATH 212: Linear Algebra II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|35        |3 |3 |14|3 |3 |9 |9 |9 |14|6 |9 |9 |11|2.0613 |
+https://www.qubirdhunter.com/?page_id=283;**LLCU 213: Cdn Organized Crime History 244**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|48        |24|15|3 |5 |2 |1 |1 |0 |0 |0 |0 |0 |0 |2.027 |
+https://www.qubirdhunter.com/?page_id=283;**MATH 281: Introduction to Real Analysis**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|124       |7 |2 |2 |5 |10|5 |6 |6 |5 |6 |7 |6 |33|1.5952 |
+https://www.qubirdhunter.com/?page_id=283;**BMED 483: Adv Topics Infectious Diseases**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|6         |  |  |  |  |  |  |  |  |  |  |  |  |  |0  |
+https://www.qubirdhunter.com/?page_id=283;**BIOL 307: Field Biology I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|9         |  |  |  |  |  |  |  |  |  |  |  |  |  |0  |
+https://www.qubirdhunter.com/?page_id=283;**PHAR 499: Research Project Pharmacology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|9         |  |  |  |  |  |  |  |  |  |  |  |  |  |0  |
+https://www.qubirdhunter.com/?page_id=283;**SPAN 458: Film and Politics in Argentina**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|8         |  |  |  |  |  |  |  |  |  |  |  |  |  |0  |
+https://www.qubirdhunter.com/?page_id=283;**SPAN 408: The Films of Pedro Almodovar**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|3         |  |  |  |  |  |  |  |  |  |  |  |  |  |0  |
+https://www.qubirdhunter.com/?page_id=283;**SPAN 352: Panorama lit latinoamer II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|6         |  |  |  |  |  |  |  |  |  |  |  |  |  |0  |
+https://www.qubirdhunter.com/?page_id=283;**LLCU 303: Applied Intercultural Com.**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|9         |  |  |  |  |  |  |  |  |  |  |  |  |  |0  |
+https://www.qubirdhunter.com/?page_id=283;**Course: Description**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA |
+https://www.qubirdhunter.com/?page_id=289;**DDHT 459: Principles of Drug Discovery**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|25        |88|12|0 |0 |0 |0 |0 |0 |0 |0 |0 |0 |0 |4.2904 |
+https://www.qubirdhunter.com/?page_id=289;**EPID 301: Principles of Epidemiology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|133       |73|18|8 |1 |1 |0 |0 |0 |0 |0 |0 |0 |0 |4.2402 |
+https://www.qubirdhunter.com/?page_id=289;**LLCU 214: Mafia Culture**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|239       |82|8 |7 |1 |1 |0 |1 |0 |0 |0 |0 |0 |0 |4.2162 |
+https://www.qubirdhunter.com/?page_id=289;**COMM 631: Fundamentals of Marketing**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|57        |56|28|11|5 |0 |0 |0 |0 |0 |0 |0 |0 |0 |4.1183 |
+https://www.qubirdhunter.com/?page_id=289;**BMED 370: Genetics and Genomics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|81        |37|42|10|4 |4 |2 |0 |0 |1 |0 |0 |0 |0 |3.9763 |
+https://www.qubirdhunter.com/?page_id=289;**FREN 106: Communication et Culture I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|474       |56|23|8 |4 |2 |1 |2 |1 |1 |1 |1 |0 |1 |3.9679 |
+https://www.qubirdhunter.com/?page_id=289;**COMM 301: Funding New Ventures**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|82        |33|38|21|0 |6 |1 |0 |0 |0 |0 |0 |0 |1 |3.9329 |
+https://www.qubirdhunter.com/?page_id=289;**ENIN 301: Creative Entrepreneurship**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|1314      |46|23|17|8 |2 |0 |0 |0 |0 |0 |0 |0 |2 |3.8672 |
+https://www.qubirdhunter.com/?page_id=289;**LISC 391: Integrated Life Sciences Lab**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|62        |3 |61|35|0 |0 |0 |0 |0 |0 |0 |0 |0 |0 |3.8649 |
+https://www.qubirdhunter.com/?page_id=289;**GRMN 201: Intermediate German I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|13        |15|15|69|0 |0 |0 |0 |0 |0 |0 |0 |0 |0 |3.8025 |
+https://www.qubirdhunter.com/?page_id=289;**LLCU 327: Sickness and Health**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|36        |33|22|19|14|3 |8 |0 |0 |0 |0 |0 |0 |0 |3.7841 |
+https://www.qubirdhunter.com/?page_id=289;**GLPH 271: Global and Population Health**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|314       |33|31|18|4 |5 |2 |2 |1 |1 |1 |1 |0 |2 |3.779 |
+https://www.qubirdhunter.com/?page_id=289;**CLST 205: Ancient Humour**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|466       |43|20|15|2 |7 |3 |1 |2 |2 |1 |0 |0 |2 |3.6851 |
+https://www.qubirdhunter.com/?page_id=289;**BIOL 243: Introduction to Statistics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|298       |43|20|15|2 |7 |3 |1 |2 |2 |1 |0 |0 |2 |3.6851 |
+https://www.qubirdhunter.com/?page_id=289;**MICR 270: Infect, Immunity, Inflammatn**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|194       |22|26|19|9 |12|4 |3 |3 |1 |1 |1 |1 |2 |3.6405 |
+https://www.qubirdhunter.com/?page_id=289;**PHAR 416: Xenobiotic Dispos. & Toxicity**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|33        |21|21|24|12|12|6 |3 |0 |0 |0 |0 |0 |0 |3.6288 |
+https://www.qubirdhunter.com/?page_id=289;**CMPE 327: Software Quality Assurance**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|44        |32|25|16|9 |2 |0 |5 |2 |7 |0 |0 |2 |0 |3.6268 |
+https://www.qubirdhunter.com/?page_id=289;**HLTH 237: Intro Study Alcohol Drug Prob.**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|161       |16|27|24|11|12|4 |2 |3 |1 |0 |0 |0 |0 |3.6187 |
+https://www.qubirdhunter.com/?page_id=289;**DRAM 240: Introduction to Theatre Space**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|74        |14|28|24|12|11|7 |0 |1 |0 |0 |0 |3 |0 |3.5738 |
+https://www.qubirdhunter.com/?page_id=289;**SOCY 300: Sociology of Cities**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|101       |2 |11|48|28|6 |5 |0 |1 |0 |0 |0 |0 |0 |3.57 |
+https://www.qubirdhunter.com/?page_id=289;**APSC 200: Engr Desing & Practice**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|464       |6 |27|30|13|15|4 |2 |2 |1 |1 |1 |0 |0 |3.5676 |
+https://www.qubirdhunter.com/?page_id=289;**SOCY 303: Select Topics Fem. Socy**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|96        |24|34|16|5 |6 |5 |2 |1 |1 |0 |1 |0 |4 |3.5663 |
+https://www.qubirdhunter.com/?page_id=289;**MICR 360: Immunology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|280       |35|19|16|6 |5 |5 |3 |4 |1 |1 |2 |1 |1 |3.5595 |
+https://www.qubirdhunter.com/?page_id=289;**PHAR 340: Principles of General Phar I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|133       |18|25|15|11|16|5 |2 |5 |1 |2 |2 |0 |0 |3.5259 |
+https://www.qubirdhunter.com/?page_id=289;**PHGY 340: Principles of General Phar I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|133       |18|25|15|11|16|5 |2 |5 |1 |2 |2 |0 |0 |3.5259 |
+https://www.qubirdhunter.com/?page_id=289;**ELEC 278: Fundamentals of Info Structure**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|318       |21|27|21|5 |7 |4 |4 |4 |2 |2 |2 |1 |1 |3.5116 |
+https://www.qubirdhunter.com/?page_id=289;**HTLH 205: Intro to Health Promotion**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|115       |8 |26|22|17|12|7 |6 |1 |2 |0 |0 |0 |0 |3.5093 |
+https://www.qubirdhunter.com/?page_id=289;**PHGY 350: Pathophysiology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|101       |17|28|14|9 |10|8 |2 |4 |4 |3 |2 |0 |0 |3.4443 |
+https://www.qubirdhunter.com/?page_id=289;**PHGY 350: Pathophysiology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|101       |17|28|14|9 |10|8 |2 |4 |4 |3 |2 |0 |0 |3.4443 |
+https://www.qubirdhunter.com/?page_id=289;**ELEC 221: Electric Circuits**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|347       |15|22|21|12|11|5 |5 |4 |2 |1 |1 |1 |1 |3.4319 |
+https://www.qubirdhunter.com/?page_id=289;**KNPE 265: Psyc of Sport & Exercise**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|170       |1 |16|36|21|16|4 |2 |2 |2 |0 |0 |0 |0 |3.4232 |
+https://www.qubirdhunter.com/?page_id=289;**GPHY 101: Human Geography**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|248       |26|20|21|5 |8 |4 |1 |5 |3 |0 |3 |0 |2 |3.4216 |
+https://www.qubirdhunter.com/?page_id=289;**APSC 293: Engineering Communications**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|464       |5 |18|28|17|17|7 |4 |3 |1 |0 |1 |0 |0 |3.4178 |
+https://www.qubirdhunter.com/?page_id=289;**MICR 271: Introduction to Microbiology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|198       |2 |19|24|18|18|10|5 |3 |2 |1 |0 |0 |1 |3.3678 |
+https://www.qubirdhunter.com/?page_id=289;**ANAT 312: Functional Neuroanatomy**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|36        |11|31|19|8 |8 |8 |3 |3 |3 |3 |0 |0 |3 |3.3625 |
+https://www.qubirdhunter.com/?page_id=289;**GPHY 243: Geographic Info Science**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|61        |8 |26|31|13|5 |3 |2 |3 |2 |0 |0 |3 |3 |3.3589 |
+https://www.qubirdhunter.com/?page_id=289;**PSYC 333: Human Sexuality**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|147       |3 |18|28|14|20|6 |4 |6 |1 |0 |0 |0 |0 |3.3443 |
+https://www.qubirdhunter.com/?page_id=289;**COMM 211: Financial Accounting**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|183       |23|20|11|9 |11|5 |6 |7 |1 |2 |2 |1 |2 |3.318 |
+https://www.qubirdhunter.com/?page_id=289;**BCHM 315: Proteins and Enzymes**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|121       |9 |19|26|10|17|5 |3 |3 |1 |4 |1 |0 |2 |3.2998 |
+https://www.qubirdhunter.com/?page_id=289;**PSYC 370: Brain and Behaviour II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|109       |23|13|21|6 |13|5 |5 |4 |1 |1 |0 |4 |6 |3.2725 |
+https://www.qubirdhunter.com/?page_id=289;**BIOL 102: Intro Biology of Cells**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|1135      |5 |16|25|15|18|7 |5 |3 |1 |1 |1 |1 |1 |3.2338 |
+https://www.qubirdhunter.com/?page_id=289;**PHYS 242: Relativity and Quanta**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|59        |15|14|25|12|7 |10|2 |3 |2 |5 |0 |0 |5 |3.2212 |
+https://www.qubirdhunter.com/?page_id=289;**STAT 268: Statistics & Probability I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|166       |17|13|18|8 |14|13|2 |5 |3 |1 |4 |1 |1 |3.2174 |
+https://www.qubirdhunter.com/?page_id=289;**KNPE 225: Advanced Human Physiology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|164       |1 |12|21|17|23|14|7 |4 |1 |1 |0 |0 |0 |3.2078 |
+https://www.qubirdhunter.com/?page_id=289;**PSYC 251: Developmental Psychology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|410       |5 |15|23|15|18|8 |6 |4 |2 |1 |1 |0 |1 |3.2001 |
+https://www.qubirdhunter.com/?page_id=289;**HLTH 252: Intro to Research Methods**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|275       |6 |14|21|13|17|10|6 |8 |3 |1 |0 |1 |1 |3.1808 |
+https://www.qubirdhunter.com/?page_id=289;**ITLN 111: Beginning Italian I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|72        |26|15|14|3 |13|3 |4 |4 |4 |8 |0 |1 |4 |3.1693 |
+https://www.qubirdhunter.com/?page_id=289;**LLCU 111: Introduction to Cultures**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|101       |22|9 |23|7 |7 |10|3 |7 |2 |1 |3 |0 |7 |3.1639 |
+https://www.qubirdhunter.com/?page_id=289;**ELEC 271: Digital Systems**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|296       |9 |20|19|11|13|6 |4 |6 |4 |3 |2 |1 |3 |3.1591 |
+https://www.qubirdhunter.com/?page_id=289;**ECON 231: Emergence of Mod Indus Economy**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|122       |2 |4 |24|20|24|13|7 |5 |0 |0 |1 |0 |1 |3.1447 |
+https://www.qubirdhunter.com/?page_id=289;**BIOL 300: Ecology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|234       |2 |9 |24|18|17|13|5 |5 |2 |1 |2 |1 |2 |3.0858 |
+https://www.qubirdhunter.com/?page_id=289;**BIOL 350: Evolution and Human Affairs**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|234       |2 |9 |24|18|17|13|5 |5 |2 |1 |2 |1 |2 |3.0858 |
+https://www.qubirdhunter.com/?page_id=289;**ELEC 377: Operating Systems**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|128       |4 |13|34|8 |13|5 |3 |5 |6 |1 |4 |2 |2 |3.0818 |
+https://www.qubirdhunter.com/?page_id=289;**COMM 221: Introduction to Finance**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|183       |17|14|15|12|7 |5 |8 |8 |4 |1 |4 |1 |4 |3.0704 |
+https://www.qubirdhunter.com/?page_id=289;**ANAT 315: Human Musculoskeletal System**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|254       |11|13|26|4 |11|9 |4 |7 |4 |3 |2 |4 |3 |3.0536 |
+https://www.qubirdhunter.com/?page_id=289;**BIOL 360: Biotechnology and Society**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|103       |5 |5 |32|8 |15|17|1 |6 |4 |2 |2 |2 |2 |3.0478 |
+https://www.qubirdhunter.com/?page_id=289;**PHGY 215: Princ of Mamm Physiology I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|625       |14|16|16|7 |9 |9 |4 |8 |7 |2 |3 |3 |3 |3.0341 |
+https://www.qubirdhunter.com/?page_id=289;**BIOL 330: Cell Biology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|273       |8 |9 |20|12|12|12|9 |8 |4 |1 |2 |1 |1 |3.008 |
+https://www.qubirdhunter.com/?page_id=289;**ANAT 309: Functional Histology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|52        |19|13|17|0 |8 |12|6 |6 |8 |2 |4 |0 |6 |2.9981 |
+https://www.qubirdhunter.com/?page_id=289;**SOCY 210: Social Research Methods**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|174       |9 |17|15|11|10|8 |7 |8 |4 |3 |3 |2 |3 |2.982 |
+https://www.qubirdhunter.com/?page_id=289;**ENIN 200: Entrepreneurship Foundations**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|193       |4 |10|25|11|15|10|5 |8 |4 |1 |1 |1 |6 |2.9593 |
+https://www.qubirdhunter.com/?page_id=289;**DEVS 230: Global Political Econ Dvlpmnt**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|212       |0 |2 |20|20|25|15|5 |3 |2 |3 |2 |1 |2 |2.9184 |
+https://www.qubirdhunter.com/?page_id=289;**MUSC 171: Social History Popular Music**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|392       |15|14|14|7 |10|7 |5 |7 |4 |4 |5 |4 |5 |2.9053 |
+https://www.qubirdhunter.com/?page_id=289;**CMPE 320: Fndmnts Software Development**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|101       |6 |9 |20|10|15|9 |6 |11|3 |3 |5 |2 |2 |2.9005 |
+https://www.qubirdhunter.com/?page_id=289;**CMPE 365: Algorithms I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|101       |6 |9 |20|10|15|9 |6 |11|3 |3 |5 |2 |2 |2.9005 |
+https://www.qubirdhunter.com/?page_id=289;**HIST 270: Comtemporary China**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|76        |4 |11|22|12|16|8 |4 |11|1 |0 |4 |0 |8 |2.893 |
+https://www.qubirdhunter.com/?page_id=289;**HIST 263: War in 20th c. Myths & Reality**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|176       |0 |3 |23|13|21|18|6 |6 |3 |1 |1 |3 |3 |2.875 |
+https://www.qubirdhunter.com/?page_id=289;**BIOL 201: Diversity of Life I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|276       |7 |10|21|5 |13|13|4 |8 |8 |3 |4 |1 |3 |2.8637 |
+https://www.qubirdhunter.com/?page_id=289;**PSYC 271: Brain and Behaviour I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|257       |17|11|12|7 |9 |6 |8 |9 |6 |3 |4 |1 |10|2.8405 |
+https://www.qubirdhunter.com/?page_id=289;**SOCY 226: Sociology Theory**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|180       |4 |8 |20|11|15|14|9 |5 |2 |2 |2 |1 |6 |2.8248 |
+https://www.qubirdhunter.com/?page_id=289;**BIOL 205: Mendelian + Molecular Genetics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|355       |5 |6 |15|8 |18|19|6 |10|6 |2 |1 |0 |3 |2.8093 |
+https://www.qubirdhunter.com/?page_id=289;**ELEC 371: Microprocessor Systems**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|225       |12|9 |15|8 |12|7 |8 |6 |7 |2 |4 |5 |5 |2.777 |
+https://www.qubirdhunter.com/?page_id=289;**MTHE 235: Diff Equations for Elec & Comp**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|184       |17|13|8 |7 |9 |6 |7 |10|2 |3 |8 |4 |7 |2.7622 |
+https://www.qubirdhunter.com/?page_id=289;**SOCY 363: Science Tech. & Society**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|68        |3 |19|22|9 |12|7 |0 |7 |1 |1 |1 |3 |13|2.7539 |
+https://www.qubirdhunter.com/?page_id=289;**KNPE 251: Introduction to Statistics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|222       |2 |10|17|14|10|9 |9 |9 |6 |4 |5 |3 |4 |2.7407 |
+https://www.qubirdhunter.com/?page_id=289;**ECON 310: Mico-Econ. Theory II**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|101       |9 |12|11|8 |7 |9 |10|14|7 |3 |2 |5 |4 |2.723 |
+https://www.qubirdhunter.com/?page_id=289;**ELEC 326: Probability & Random Processes**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|187       |9 |4 |12|9 |9 |9 |12|11|9 |7 |4 |3 |3 |2.6131 |
+https://www.qubirdhunter.com/?page_id=289;**ELEC 326: Probability & Random Processes**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|187       |9 |4 |12|9 |9 |9 |12|11|9 |7 |4 |3 |3 |2.6131 |
+https://www.qubirdhunter.com/?page_id=289;**ECON 212: Microeconomic Theory I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|222       |12|13|14|4 |9 |5 |6 |9 |3 |6 |3 |4 |12|2.6044 |
+https://www.qubirdhunter.com/?page_id=289;**ECON 351: Introductory Econometrics**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|126       |6 |7 |13|8 |10|13|7 |13|4 |6 |2 |6 |4 |2.5711 |
+https://www.qubirdhunter.com/?page_id=289;**BCHM 218: Molecular Biology**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|519       |5 |9 |13|7 |14|8 |8 |10|7 |5 |4 |2 |6 |2.5525 |
+https://www.qubirdhunter.com/?page_id=289;**CHEM 281: General Organic Chemistry I**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|566       |5 |9 |13|7 |14|8 |8 |10|7 |5 |4 |2 |6 |2.5525 |
+https://www.qubirdhunter.com/?page_id=289;**EMPR 220: Conflict Resolution**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|98        |1 |5 |18|9 |13|12|8 |14|4 |2 |2 |3 |7 |2.525 |
+https://www.qubirdhunter.com/?page_id=289;**ECON 290: Environment Econ & Assessment**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|73        |5 |10|7 |7 |7 |11|1 |14|11|7 |7 |4 |10|2.297 |
+https://www.qubirdhunter.com/?page_id=289;**GEOL 104: The Dynamic Earth**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|77        |1 |3 |9 |9 |13|9 |10|12|8 |5 |8 |6 |6 |2.2265 |
+https://www.qubirdhunter.com/?page_id=289;**MATH 231: Differential Equations**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|97        |15|5 |9 |4 |8 |6 |5 |6 |4 |6 |5 |9 |15|2.215 |
+https://www.qubirdhunter.com/?page_id=289;**SOCY 275: Theor Deviance & Social Control**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|130       |2 |2 |8 |6 |10|10|13|14|8 |12|6 |5 |3 |2.2059 |
+https://www.qubirdhunter.com/?page_id=289;**MATH 280: Advanced Calculus**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|124       |7 |2 |7 |6 |9 |6 |5 |6 |6 |9 |7 |8 |22|1.8581 |
+https://www.qubirdhunter.com/?page_id=289;**SPAN 354: Voces Femeninas en Latin Am.**
+|Enrollment|A+|A |A-|B+|B |B-|C+|C |C-|D+|D |D-|F |GPA    |
+|9         |  |  |  |  |  |  |  |  |  |  |  |  |  |0  |
+https://www.qubirdhunter.com/?page_id=289;

@@ -1,0 +1,9 @@
+lenny:Leonard Dining Hall, the largest dining hall on Queen’s campus, can seat 700 guests and offers daily new and exciting menu options in a market-style setting.;
+leonarddininghall:Leonard Dining Hall, the largest dining hall on Queen’s campus, can seat 700 guests and offers daily new and exciting menu options in a market-style setting.;
+lennydininghall:Leonard Dining Hall, the largest dining hall on Queen’s campus, can seat 700 guests and offers daily new and exciting menu options in a market-style setting.;
+loco:Location 21 is our 21st dining location on campus! It features a Build Your Own Salad station, new Fully-Loaded pre-made sandwiches, a Gourmet Sandwich station, and grill options for breakfast, lunch and dinner.;
+location21:Location 21 is our 21st dining location on campus! It features a Build Your Own Salad station, new Fully-Loaded pre-made sandwiches, a Gourmet Sandwich station, and grill options for breakfast, lunch and dinner.;
+locationtwentyone:Location 21 is our 21st dining location on campus! It features a Build Your Own Salad station, new Fully-Loaded pre-made sandwiches, a Gourmet Sandwich station, and grill options for breakfast, lunch and dinner.;
+lazy:The Lazy Scholar, located in Victoria Hall and unique to Queen’s campus, is a lounge-style cafe featuring flat-screen televisions, fireplaces, a pool table & foosball.;
+lazyscholar:The Lazy Scholar, located in Victoria Hall and unique to Queen’s campus, is a lounge-style cafe featuring flat-screen televisions, fireplaces, a pool table & foosball.;
+lazys:The Lazy Scholar, located in Victoria Hall and unique to Queen’s campus, is a lounge-style cafe featuring flat-screen televisions, fireplaces, a pool table & foosball.;

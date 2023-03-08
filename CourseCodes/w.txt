@@ -1,0 +1,20 @@
+wmns:Women's Studies;
+writ: Writing;
+WRITPUNS:0 Level Unspecified;
+WRIT1UNS:100 Level Unspecified;
+WRIT2UNS:200 Level Unspecified;
+WRIT120:Fundamentals of Effective Writing;
+WRIT125:Fundamentals of Academic Essay writing
+
+*** view multiple offerings;
+WRIT175:Effective Writing II
+
+*** view multiple offerings;
+WRIT225:Writing for Research, Analysis, and Reflection;
+WRIT235A:Writing in the Community;
+WRIT235B:Writing in the Community;
+WRIT240:Writing for Social Media and the Web;
+WRIT250:Writing in Business Contexts;
+WRIT265:Editing in Academic and Professional Contexts;
+WRIT275:Analytical Writing;
+WRIT290:Writing Creative Non-fiction;

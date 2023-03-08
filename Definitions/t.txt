@@ -1,0 +1,10 @@
+testtest:test;
+theunderground:**Alfie's**
+Alfie's, a student-run bar, opened its doors in the 1970s [the Encyclopedia previously noted both 1971 and 1976 as the opening date] as "The Underground," a reference to its location in the basement of the John Deutsch University Centre (JDUC). It was renamed Alfie's in 1979 in honour of Alfie Pierce, a long-time cheerleader for the Queen's football team.
+https://www.queensu.ca/encyclopedia/a/alfies;
+tam:Our Trade a Meal option allows you to “trade in” one of your dining hall meals for a designated Trade a Meal specials in retail.;
+tradeameal:Our Trade a Meal option allows you to “trade in” one of your dining hall meals for a designated Trade a Meal specials in retail.;
+tam:Our Trade a Meal option allows you to “trade in” one of your dining hall meals for a designated Trade a Meal specials in retail.;
+tradeameal:Our Trade a Meal option allows you to “trade in” one of your dining hall meals for a designated Trade a Meal specials in retail.;
+test3:test3;
+thum103: Intro to Thu'um (Online);

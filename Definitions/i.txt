@@ -1,0 +1,3 @@
+ilc:Innovation and Learning Centre (Beamish Monroe Hall);
+iwc:Innovation and Wellness Centre (Mitchell Hall);
+iaeste:IAESTE is an international student exchange program, founded in 1948;

@@ -1,0 +1,12 @@
+observatory:observatory;
+obstetricsandgynaecologydepartment:obstetrics-and-gynaecology-department;
+oilthigh:oil-thigh;
+okillstreet:okill-street;
+oldmedicalbuilding:old-medical-building;
+oldmill:old-mill;
+ontariohall,ontario:ontario-hall;
+operationhappybirthday:operation-happy-birthday;
+oralhistoryqueens:oral-history-queens;
+orientationactivitiesreviewboard:orientation-activities-review-board;
+orientationweek:orientation-week;
+orrjohnharland:orr-john-harland;

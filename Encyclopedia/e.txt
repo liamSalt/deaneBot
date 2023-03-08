@@ -1,0 +1,15 @@
+earlhall,earl:earl-hall;
+earlrolloothwell:earl-rollo-othwell;
+economicsdepartment,economics:economics-department;
+edmundsleonard:edmunds-leonard;
+educationfaculty,education:education-faculty;
+electricalandcomputerengineeringdepartment,ece:electrical-and-computer-engineering-department;
+ellisdouglasstewart:ellis-douglas-stewart;
+ellishall,ellis:ellis-hall;
+emergencymedicinedepartment:emergency-medicine-department;
+engineeringandappliedsciencefaculty,engineering:engineering-and-applied-science-faculty;
+englishdepartment,english:english-department;
+environmentalstudiesschool,environmentalstudies:environmental-studies-school;
+etheringtonagnesrichardson:etherington-agnes-richardson;
+etheringtonfrederick:etherington-frederick;
+etheringtonhall,etherington:etherington-hall;

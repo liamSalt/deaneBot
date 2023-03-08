@@ -1,0 +1,84 @@
+icl:Immigrtion and Citizenship Law;
+idis: Interdisciplinary Studies;
+IDIS1UNS:Unspecified 100 Level;
+IDIS2UNS:200 Level Unspecified;
+IDIS3UNS:200 Level Unspecified;
+IDIS210:Arts in Society;
+IDIS220:Hacking the Humanities: An Introduction to the Digital Humanities;
+IDIS221:Digital Humanities I: Theorising the Digital User;
+IDIS222:Digital Humanities II: The Theory and Practice of Digital Representation;
+IDIS280:Interprofessional Approaches in Healthcare;
+IDIS302:Race and Racism;
+IDIS303:Mathematics and Poetry;
+IDIS304:British Studies I;
+IDIS305:British Studies II;
+IDIS307:Intercultural Relations;
+IDIS410:Contemporary Cultural Performance in Practice;
+IDIS480:Advanced Interprofessional Approaches in Healthcare;
+indg: Indigenous Studies;
+INDG301:Indigenous Ways of Knowing;
+INDG302:Indigenous Theories and Methodologies: Learning through Indigenous Worldviews;
+INDG401A:In Community Capstone: Research and Relationships;
+INDG401B:In Community Capstone: Research and Relationships;
+intl: International Course;
+INTL3UNS:International Courses;
+intn: Professional Internship;
+INTN301:Professional Internship l;
+INTN302:Professional Internship ll;
+INTN303:Professional Internship lll;
+INTN303A:Professional Internship lll;
+INTN303B:Professional Internship lll;
+INTN304:Professional Internship lll;
+INTN305:Professional Internship lV;
+ints: International Studies;
+INTS2UNS:200 Level Unspecified;
+INTS3UNS:300 Level Unspecified;
+INTS221:Global Issues of the 21st Century;
+INTS300:Special Studies in Britain and Europe in a Global Context I;
+INTS301:Special Studies in Britain and Europe in a Global Context II;
+INTS302:Mod European Studies;
+INTS303:The Global Village Case Studies of South Eastern England;
+INTS306:Culture, Identity and Self
+
+*** view multiple offerings;
+INTS307:Intercultural Relations
+
+*** view multiple offerings;
+INTS312:Seminar in Modern European Studies I
+
+*** view multiple offerings;
+INTS313:Seminar in Modern European Studies II;
+INTS321:Urban Images: Race, Gender, Sexuality and the Imagined City;
+INTS323:International Perspectives in the Creative Arts I
+
+*** view multiple offerings;
+INTS324:International Perspectives in the Creative Arts II;
+INTS363:The Philosophy of International Law;
+inuk: Inuktitut;
+INUK101:Beginning Inuktitut Language & Culture l;
+INUK102:Beginning Inuktitut Language and Culture ll;
+itln: Italian;
+ITLNUNSP:Unspecified;
+ITLN1UNS:100 Level Unspecified;
+ITLN2UNS:200 Level Unspecified;
+ITLN3UNS:300 Level Unspecified;
+ITLN4UNS:400 Level Unspecified;
+ITLN111:Beginning Italian I;
+ITLN112:Beginning Italian II;
+ITLN204:Italiano Intermedio;
+ITLN205:Italiano avanzato;
+ITLN230B:Letteratura Italiana;
+ITLN310:Italy and the Classical Tradition;
+ITLN326:Literature and Cinema;
+ITLN331:Survey of Italian Literature I;
+ITLN332:Survey of Italian Literature II;
+ITLN357:Pirandello's Theatre;
+ITLN408:From Fellini to Benighni;
+ITLN415:Dante;
+ITLN432:From the Romantics to D'annunzio;
+ITLN501:Letteratura italiana: Temi scelti;
+ITLN502:Letteratura italiana: Studi indipendenti;
+ITLN594:Independent Study;
+ITLN595:Independent Study;
+ITLN596:Independent Study;
+ITLN597:Independent Study;

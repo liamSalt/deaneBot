@@ -1,0 +1,6 @@
+alice:!;
+acsa:African & Caribbean Students Association;
+aiesec:AIESEC is the largest student run non-profit organization in the world...Here at AIESEC Queen’s we work to facilitate incoming and outgoing exchange internships...;
+aigsq:Association of Korean Scientists and Engineers;
+agc:Academic Grievances Centre;
+aero:The Queen’s Aero Design Team...builds one or two small scale remote control aircrafts, which aim to accomplish several goals, including highest payload fraction (smallest plane, biggest load), accuracy in dropping a payload onto a target, and largest payload carried.;d
