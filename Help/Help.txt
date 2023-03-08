@@ -1,8 +1,0 @@
-- Added definition disappeared after a while
-
-	run "saveNewRows.bat" and defs should recover
-	from Google Sheet
-
-- Forget How to get changes to code to appear
-
-	check "git commands.txt" or just run 			"updateHeroku.bat"
