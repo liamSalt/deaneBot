@@ -1,4 +1,0 @@
-client_secret.json
-token.txt
-password.txt
-netID.txt
